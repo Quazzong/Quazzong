@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align=center>
+    <img 
+    src=assets/cat-ai.gif
+    width = 400
+    >
+</p>
 <!--
 **Quazzong/Quazzong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
