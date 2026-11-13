@@ -8,43 +8,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8B9CF4&center=true&vCenter=true&width=480&lines=Informatics+Engineering+Student" alt="Typing SVG">
 </p>
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="assets/cat-ai.gif" width="200" alt="Cat AI">
-    </td>
-    <td width=70% valign="middle">
-      <h3>✨ About Me</h3>
-      <ul>
-        <li>🎓 I'm an Informatics Engineering Student</li>
-        <li>🌱 Interested in doing something</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Learning-8b9cf4?style=flat-square" alt="Status">
-        <img src="https://img.shields.io/badge/Mode-Larpy-c3b1e1?style=flat-square" alt="Mode">
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
+<img align="left" src="assets/cat-ai.gif" width="200" alt="Cat AI">
+
+<h3>✨ About Me</h3>
+
+- 🎓 I'm an Informatics Engineering Student
+- 🌱 Interested in doing something
+
+<img src="https://img.shields.io/badge/Status-Learning-8b9cf4?style=flat-square" alt="Status">
+<img src="https://img.shields.io/badge/Mode-Larpy-c3b1e1?style=flat-square" alt="Mode">
+
+<br clear="left">
 
 <h2 align="center">Skills 💻️</h2>
 
-<div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <p align="center"><img src="https://img.shields.io/badge/Languages-8b9cf4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Languages"></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=java,python,kotlin,html&theme=dark&perline=6" alt="Languages icons" height="42"></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <p align="center"><img src="https://img.shields.io/badge/Tools-c3b1e1?style=for-the-badge&logo=gnubash&logoColor=white" alt="Tools"></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=vscodium,neovim,git,github,figma&theme=dark&perline=6" alt="Tools icons" height="42"></p>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-8b9cf4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Languages" align="middle">&nbsp;
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,html&theme=dark&perline=6" alt="Languages icons" height="42" align="middle">
+  &emsp;&emsp;&emsp;
+  <img src="https://img.shields.io/badge/Tools-c3b1e1?style=for-the-badge&logo=gnubash&logoColor=white" alt="Tools" align="middle">&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscodium,neovim,git,github,figma&theme=dark&perline=6" alt="Tools icons" height="42" align="middle">
+</p>
 
 <h2 align="center">GitHub Stats 📊</h2>
 
