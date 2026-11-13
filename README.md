@@ -10,19 +10,18 @@
 
 <img align="left" src="assets/spacer.png" width="150" height="1" alt="">
 <img align="left" src="assets/cat-ai.gif" width="200" alt="Cat AI">
-<img align="left" src="assets/spacer.png" width="24" height="1" alt="">
 
 <br>
 
-<h3>✨ About Me</h3>
+<h3>&emsp;✨ About Me</h3>
 
 <p>
-🎓 I'm an Informatics Engineering Student<br>
-🌱 Interested in doing something
+&emsp;🎓 I'm an Informatics Engineering Student<br>
+&emsp;🌱 Interested in doing something
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Learning-8b9cf4?style=flat-square" alt="Status">
+  &emsp;<img src="https://img.shields.io/badge/Status-Learning-8b9cf4?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Mode-Larpy-c3b1e1?style=flat-square" alt="Mode">
 </p>
 
