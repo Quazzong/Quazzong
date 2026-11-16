@@ -35,7 +35,7 @@
 <h2 align="center">GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Quazzong&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=false&layout=compact" alt = "Github Languages" height="165">
   <img src="https://streak-stats.demolab.com?user=Quazzong&hide_border=true&background=00000000&ring=8B9CF4&fire=8B9CF4&currStreakLabel=8B9CF4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" height="165">
 </p>
 
