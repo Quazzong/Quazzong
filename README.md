@@ -30,7 +30,7 @@
 <h2 align="center">Skills 💻️</h2>
 
 <p align="center"><img src="assets/spacer.png" width="128" height="1" alt=""><img src="https://img.shields.io/badge/Languages-8b9cf4?style=for-the-badge&logo=codeforces&logoColor=white" width="123" height="28" alt="Languages"><img src="assets/spacer.png" width="274" height="1" alt=""><img src="https://img.shields.io/badge/Tools-c3b1e1?style=for-the-badge&logo=gnubash&logoColor=white" width="87" height="28" alt="Tools"><img src="assets/spacer.png" width="146" height="1" alt=""></p>
-<p align="center"><img src="assets/spacer.png" width="95" height="1" alt=""><img src="https://skillicons.dev/icons?i=java,python,kotlin,html&theme=dark&perline=6" width="190" height="42" alt="Languages icons"><img src="assets/spacer.png" width="165" height="1" alt=""><img src="https://skillicons.dev/icons?i=vscodium,neovim,git,github,figma&theme=dark&perline=6" width="239" height="42" alt="Tools icons"><img src="assets/spacer.png" width="70" height="1" alt=""></p>
+<p align="center"><img src="assets/spacer.png" width="95" height="1" alt=""><img src="https://skillicons.dev/icons?i=java,python,kotlin,html,js&theme=dark&perline=6" width="190" height="42" alt="Languages icons"><img src="assets/spacer.png" width="165" height="1" alt=""><img src="https://skillicons.dev/icons?i=vscodium,neovim,git,github,figma&theme=dark&perline=6" width="239" height="42" alt="Tools icons"><img src="assets/spacer.png" width="70" height="1" alt=""></p>
 
 <h2 align="center">GitHub Stats 📊</h2>
 
